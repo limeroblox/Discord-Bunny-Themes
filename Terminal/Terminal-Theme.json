@@ -1,0 +1,462 @@
+{
+    "name": "Terminal Adastra",
+    "description": "Terminal-style Amicus theme with green/black scheme",
+    "authors": [
+        {
+            "name": "Haxel",
+            "id": ""
+        }
+    ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#00ff001a",
+            "#00aa001a",
+            "#00ff001a"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#00ff0026",
+            "#00aa0026",
+            "#00ff0026"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#00ff001a",
+            "#00aa001a",
+            "#00ff001a"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#00ff00",
+            "#00ff00",
+            "#00ff00"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#00ff007a",
+            "#00aa007a",
+            "#00ff007a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#00ff0026",
+            "#00aa0026",
+            "#00ff0026"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#00ff001a",
+            "#00aa001a",
+            "#00ff001a"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#00ff0099",
+            "#00aa0099",
+            "#00ff0099"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#111111",
+            "#111111",
+            "#111111"
+        ],
+        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#00aa00",
+            "#00aa00",
+            "#00aa00"
+        ],
+        "CHANNEL_ICON": [
+            "#00ff004d",
+            "#00ff004d",
+            "#00ff004d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#00000099",
+            "#00000099",
+            "#00000099"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#00aa00",
+            "#00aa00",
+            "#00aa00"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_CARD_BG": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_CARD_EDITABLE_BG": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+            "#00aa00",
+            "#00aa00",
+            "#00aa00"
+        ],
+        "DEPRECATED_STORE_BG": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_TEXT_INPUT_BG": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
+            "#003300",
+            "#003300",
+            "#003300"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "DEPRECATED_TEXT_INPUT_PREFIX": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "ELEVATION_HIGH": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "ELEVATION_LOW": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_MEDIUM": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "ELEVATION_STROKE": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "FOCUS_PRIMARY": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "GUILD_HEADER_TEXT_SHADOW": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "HEADER_PRIMARY": [
+            "#00ff00",
+            "#00ff00",
+            "#00ff00"
+        ],
+        "HEADER_SECONDARY": [
+            "#00aa00",
+            "#00aa00",
+            "#00aa00"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "INFO_DANGER_FOREGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_DANGER_TEXT": [
+            "#ff3300",
+            "#cc0000",
+            "#ff3300"
+        ],
+        "INFO_HELP_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "INFO_HELP_FOREGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_HELP_TEXT": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "INFO_POSITIVE_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "INFO_POSITIVE_FOREGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_POSITIVE_TEXT": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "INFO_WARNING_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "INFO_WARNING_FOREGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_WARNING_TEXT": [
+            "#ffff00",
+            "#aaaa00",
+            "#ffff00"
+        ],
+        "INPUT_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#00ff00",
+            "#00ff00",
+            "#00ff00"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#003300",
+            "#001100",
+            "#003300"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#006600",
+            "#004400",
+            "#006600"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#00aa00",
+            "#00aa00",
+            "#00aa00"
+        ],
+        "LOGO_PRIMARY": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "MODAL_FOOTER_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#00aa00",
+            "#00aa00",
+            "#00aa00"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#ff3300",
+            "#cc0000",
+            "#ff3300"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#00aa00",
+            "#006600",
+            "#00aa00"
+        ],
+        "STATUS_POSITIVE_TEXT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "STATUS_WARNING_BACKGROUND": [
+            "#ffff00",
+            "#aaaa00",
+            "#ffff00"
+        ],
+        "STATUS_WARNING_TEXT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "TEXTBOX_MARKDOWN_SYNTAX": [
+            "#00aa00",
+            "#00aa00",
+            "#00aa00"
+        ],
+        "TEXT_DANGER": [
+            "#ff3300",
+            "#cc0000",
+            "#ff3300"
+        ],
+        "TEXT_LINK": [
+            "#00ff00",
+            "#00aa00",
+            "#00ff00"
+        ],
+        "TEXT_LINK_LOW_SATURATION": [
+            "#00aa00",
+            "#006600",
+            "#00aa00"
+        ],
+        "TEXT_MUTED": [
+            "#006600",
+            "#004400",
+            "#006600"
+        ],
+        "TEXT_NORMAL": [
+            "#00ff00",
+            "#00ff00",
+            "#00ff00"
+        ],
+        "TEXT_POSITIVE": [
+            "#00aa00",
+            "#00aa00",
+            "#00aa00"
+        ],
+        "TEXT_WARNING": [
+            "#ffff00",
+            "#aaaa00",
+            "#ffff00"
+        ]
+    },
+    "rawColors": {
+        "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
+        "PRIMARY_100": "#00ff00",
+        "PRIMARY_130": "#003300",
+        "PRIMARY_200": "#00aa00",
+        "PRIMARY_230": "#00aa00",
+        "PRIMARY_300": "#00ff00",
+        "PRIMARY_360": "#00ff00",
+        "PRIMARY_400": "#006600",
+        "PRIMARY_460": "#000000",
+        "PRIMARY_500": "#00aa00",
+        "PRIMARY_560": "#0a0a0a",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "PRIMARY_900": "#0a0a0a",
+        "BLACK_500": "#000000",
+        "BLACK_530": "#000000",
+        "BLACK_560": "#000000",
+        "BLACK_600": "#000000",
+        "BLACK_630": "#000000",
+        "BLACK_660": "#000000",
+        "BLACK_700": "#000000",
+        "BLACK_730": "#000000",
+        "BLACK_760": "#000000",
+        "BLACK_800": "#000000",
+        "BLACK_830": "#000000",
+        "BLACK_860": "#000000",
+        "BLACK_900": "#000000",
+        "BRAND_230": "#00ff00",
+        "BRAND_260": "#00aa00",
+        "BRAND_360": "#00ff00",
+        "BRAND_500": "#00ff00",
+        "BRAND_560": "#00ff00",
+        "RED_400": "#ff3300",
+        "RED_430": "#ff3300",
+        "RED_460": "#ff3300",
+        "GREEN_360": "#00ff00",
+        "WHITE_500": "#00ff00",
+        "YELLOW_300": "#ffff00"
+    },
+    "background": {
+        "url": "https://github.com/Kris123454/Discord-Bunny-Amicus-Theme/blob/main/Asset/ClearVision/adastradark.jpg?raw=true"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#00ff00",
+            "ic_mic_muted_neutral": "#00aa00",
+            "ic_soundboard": "#00ff00",
+            "ic_soundboard_muted": "#00aa00",
+            "ic_video": "#00ff00",
+            "ic_video_disabled": "#00aa00"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
