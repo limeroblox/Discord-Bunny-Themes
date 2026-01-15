@@ -1,6 +1,6 @@
 {
-    "name": "Terminal Adastra",
-    "description": "Terminal-style Amicus theme with green/black scheme",
+    "name": "Terminal",
+    "description": "Terminal-style theme with green/black scheme",
     "authors": [
         {
             "name": "Haxel",
@@ -443,7 +443,7 @@
         "YELLOW_300": "#ffff00"
     },
     "background": {
-        "url": "https://github.com/Kris123454/Discord-Bunny-Amicus-Theme/blob/main/Asset/ClearVision/adastradark.jpg?raw=true"
+        "url": "https://raw.githubusercontent.com/limeroblox/Discord-Bunny-Themes/refs/heads/main/Terminal/Assets/ScreenRecording_01-15-2026%2016-40-32_1.gif"
     },
     "plus": {
         "version": 0,
