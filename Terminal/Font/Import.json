@@ -1,8 +1,8 @@
 {
     "spec": 1,
     "name": "Cascadia Code",
-    "previewText": "Cascadia Code Is Made For Microsoft Terminal UI's and more, this is commonly seen in terminals.",
+    "previewText": "Cascadia Code is made for Microsoft Terminal UIs and more, commonly seen in terminals.",
     "main": {
-        "Cascadia-Code-Default": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Cascadia.ttf?raw=true"
+        "Cascadia-Code-Default": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Cascadia.ttf?raw=1"
     }
 }
