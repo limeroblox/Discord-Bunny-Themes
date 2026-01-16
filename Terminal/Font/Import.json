@@ -1,8 +1,20 @@
-{
+{ 
     "spec": 1,
     "name": "Cascadia Code",
     "previewText": "Cascadia Code is made for Microsoft Terminal UIs and more, commonly seen in terminals.",
     "main": {
-        "Cascadia-Code-Default": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Cascadia.ttf?raw=1"
+        "Cascadia Code Bold": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-Bold.ttf?raw=1",
+        "Cascadia Code Bold Italic": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-BoldItalic.ttf?raw=1",
+        "Cascadia Code Extra Light": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/Terminal/Font/Static/CascadiaCode-ExtraLight.ttf?raw=1",
+        "Cascadia Code Extra Light Italic": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-ExtraLightItalic.ttf?raw=1",
+        "Cascadia Code Italic": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-Italic.ttf?raw=1",
+        "Cascadia Code Light": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-Light.ttf?raw=1",
+        "Cascadia Code Light Italic": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-LightItalic.ttf?raw=1",
+        "Cascadia Code Medium": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-Medium.ttf?raw=1",
+        "Cascadia Code Medium Italic": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-MediumItalic.ttf?raw=1",
+        "Cascadia Code Regular": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-Regular.ttf?raw=1",
+        "Cascadia Code Semi Bold": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-SemiBold.ttf?raw=1",
+        "Cascadia Code Semi Bold Italic": "https://github.com/limeroblox/Discord-Bunny-Themes/blob/main/Terminal/Font/Static/CascadiaCode-SemiBoldItalic.ttf?raw=1"
     }
 }
+
